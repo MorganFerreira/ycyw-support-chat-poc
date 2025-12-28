@@ -1,0 +1,6 @@
+.page { height: 100vh; display: flex; flex-direction: column; }
+.header { padding: 12px 16px; display:flex; align-items:center; justify-content:space-between; }
+.login { padding: 16px; }
+.users { display:flex; gap: 10px; flex-wrap: wrap; }
+.chat { flex: 1; }
+.talkjs-container { height: 100%; width: 100%; }

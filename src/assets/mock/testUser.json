@@ -1,0 +1,18 @@
+[
+  {
+    "id": "support",
+    "username": "support",
+    "email": "support@yourcaryourway.com",
+    "photoUrl": "https://talkjs.com/images/avatar-1.jpg",
+    "welcomeMessage": "Bonjour, comment puis-je vous aider ?",
+    "role": "support"
+  },
+  {
+    "id": "morgan",
+    "username": "morgan",
+    "email": "morgan@gmail.com",
+    "photoUrl": "https://talkjs.com/images/avatar-4.jpg",
+    "welcomeMessage": "Bonjour",
+    "role": "customer"
+  }
+]
